@@ -1,0 +1,4 @@
+/home/frabe808/CLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/frabe808/Git/TDP005
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/frabe808/Git/TDP005/cmake-build-debug

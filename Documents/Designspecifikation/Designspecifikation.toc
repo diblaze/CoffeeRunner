@@ -1,0 +1,7 @@
+\select@language {swedish}
+\contentsline {section}{\numberline {1}Revisionshistorik}{2}{section.1}
+\contentsline {section}{\numberline {2}Beskrivning utav spelets uppbyggnad}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Klassdiagram}{2}{subsection.2.1}
+\contentsline {section}{\numberline {3}Detaljbeskrivning av Collision-klassen}{4}{section.3}
+\contentsline {section}{\numberline {4}Detaljbeskrivning av World-klassen}{5}{section.4}
+\contentsline {section}{\numberline {5}Externa filformat}{6}{section.5}

@@ -1,0 +1,5 @@
+\select@language {swedish}
+\contentsline {section}{\numberline {1}Revisionshistorik}{2}{section.1}
+\contentsline {section}{\numberline {2}Vad har jag fått ut av kursen?}{2}{section.2}
+\contentsline {section}{\numberline {3}Hur gick det att arbeta?}{3}{section.3}
+\contentsline {section}{\numberline {4}Vilka svårigheter stötte jag på?}{3}{section.4}

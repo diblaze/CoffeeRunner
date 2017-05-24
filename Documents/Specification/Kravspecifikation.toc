@@ -1,0 +1,24 @@
+\select@language {swedish}
+\contentsline {section}{\numberline {1}Revisionshistorik}{2}{section.1}
+\contentsline {section}{\numberline {2}Spelidé}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Svårighetsgrad}{2}{subsection.2.1}
+\contentsline {section}{\numberline {3}Målgrupp}{2}{section.3}
+\contentsline {section}{\numberline {4}Spelupplevelse}{2}{section.4}
+\contentsline {section}{\numberline {5}Spelmekanik}{3}{section.5}
+\contentsline {section}{\numberline {6}Regler}{3}{section.6}
+\contentsline {subsection}{\numberline {6.1}Allmänt}{3}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Spelplanen}{3}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Spelare}{4}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Hinder - Studenter}{4}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Hinder - Svart skärm}{4}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Hinder - Halt golv}{4}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Hinder - Liggande studenter}{4}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}Mål}{5}{subsection.6.8}
+\contentsline {section}{\numberline {7}Visualisering}{5}{section.7}
+\contentsline {subsection}{\numberline {7.1}Meny}{5}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Spelplan}{6}{subsection.7.2}
+\contentsline {section}{\numberline {8}Krav}{6}{section.8}
+\contentsline {subsection}{\numberline {8.1}Ska-krav}{6}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}Bör-krav}{7}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}Tilläggskrav}{7}{subsection.8.3}
+\contentsline {section}{\numberline {9}Kravuppfyllelse}{7}{section.9}

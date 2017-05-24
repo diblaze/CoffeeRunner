@@ -1,0 +1,26 @@
+var class_player_controller =
+[
+    [ "PlayerController", "class_player_controller.html#af2d4e93f407c9cd40a5de9f14cbeadec", null ],
+    [ "PlayerController", "class_player_controller.html#aad7395c8a31f01e482093ce5b47d83e0", null ],
+    [ "~PlayerController", "class_player_controller.html#a27b597bc2dbe06e2464dea6cdb3fac96", null ],
+    [ "CurrentLane", "class_player_controller.html#a80b6bd2163745c05e5a39be062843a92", null ],
+    [ "DecreaseVelocity", "class_player_controller.html#a5338f8f5f27a650ba351dda6b9f435e2", null ],
+    [ "Fall", "class_player_controller.html#ab95de4306fb5283df0928296371282bb", null ],
+    [ "GetGearSpeed", "class_player_controller.html#a52458b01965c546e1812fdb99bcff0f9", null ],
+    [ "HandleEvent", "class_player_controller.html#a3944fd9bd5f185ebbf70e2c06f191464", null ],
+    [ "HopLeft", "class_player_controller.html#a0518ad00141c5fd9b340f8ad4f716fba", null ],
+    [ "HopRight", "class_player_controller.html#a3a4e439e18762c8fa871d9fd9720ff83", null ],
+    [ "IncreaseVelocity", "class_player_controller.html#a25d4b9c60c92d4e5414a91c17a35634e", null ],
+    [ "Init", "class_player_controller.html#a66c70caa80d95d12515f5ff2843fc8ad", null ],
+    [ "InitGears", "class_player_controller.html#a34dd8087d3793333cdc47cbb5938d1d6", null ],
+    [ "Jump", "class_player_controller.html#a4400db99f638300072af52e86b2d64a1", null ],
+    [ "SetTileSize", "class_player_controller.html#aa54d6cab38330c1fa358e619d5d6e228", null ],
+    [ "Update", "class_player_controller.html#a6a9da2e0d33b40dd60b0b20cc7c95af5", null ],
+    [ "_currentLane", "class_player_controller.html#ac536c7b8793169ba4f705082e49b0c5b", null ],
+    [ "_fallTimer", "class_player_controller.html#a89a75bb397bf6b0e6ef15093f92dde46", null ],
+    [ "_jumpTimer", "class_player_controller.html#a90ad1f7c33aaa9e0b959eccda46550f5", null ],
+    [ "_moveableComponent", "class_player_controller.html#a46ace6c546e932a0f01e7a6c4e82adc9", null ],
+    [ "_playerComponent", "class_player_controller.html#a9427c7a5aeb6cf70cbae6b04bc235347", null ],
+    [ "_tileSize", "class_player_controller.html#adafd98ab58e1f55e2d80d6320f132145", null ],
+    [ "velocityPerGear", "class_player_controller.html#a984f248bc82b1dfedef912ffa3fc1e51", null ]
+];
